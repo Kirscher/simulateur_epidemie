@@ -1,6 +1,7 @@
 # Simulateur de progression d’épidémie
 <i> Construction d’un solveur d’EDO sur MATLAB et application à un simulateur de progression d’épidémie. </i>
-![image](https://user-images.githubusercontent.com/85068746/200110689-37eb1685-64e6-4e1f-8115-3cf84d69b996.png)
+
+<img src="https://user-images.githubusercontent.com/85068746/200110689-37eb1685-64e6-4e1f-8115-3cf84d69b996.png" height="350" />
 
 # Table des matières
 ## Solveur de systèmes d'équations différentielles ordinaires
